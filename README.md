@@ -27,7 +27,7 @@ The self-balancing robot operates using a closed-loop feedback control system. A
 ## Demonstration Video
 
 <p align="center">
-  <img src="docs/line_following_robot.gif" alt="Line Following Robot Demo" width="15%">
+  <img src="docs/balancing_robot.gif" alt="Balancing Robot" width="15%">
 </p>
 
 
