@@ -1,7 +1,7 @@
 # Self-Balancing Robot
 
 <p align="center">
-  <img src="docs/balancing_robot.jpeg" alt="balancing robot" width="40%">
+  <img src="docs/balancing_robot.jpeg" alt="balancing robot" width="30%">
 </p>
 
 
