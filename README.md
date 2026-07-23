@@ -5,7 +5,7 @@
 </p>
 
 
-## System Description
+## Abstract
 The Self-Balancing Robot is a two-wheeled mobile robot designed to maintain its upright position autonomously using the inverted pendulum principle. The robot continuously measures its tilt angle with an MPU6050 Inertial Measurement Unit (IMU) and uses a PID (Proportional–Integral–Derivative) controller to calculate the required motor commands for maintaining balance. By continuously adjusting the speed and direction of the two DC motors, the robot compensates for disturbances and remains stable in real time.
 
 This project demonstrates the application of embedded systems, feedback control, sensor integration, and motor control in robotics. It provides a practical platform for understanding control theory, real-time programming, and autonomous mobile robot development, and can be extended with features such as remote control, obstacle avoidance, or autonomous navigation.
